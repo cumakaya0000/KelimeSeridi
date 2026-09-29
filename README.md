@@ -2,9 +2,11 @@
 
 Kelime Şeridi, Windows masaüstünün üst kenarında çalışan çevrimdışı bir İngilizce kelime uygulamasıdır. Çalışırken ekranın çalışma alanını koruyan ince bir şerit gösterir; kelime ve Türkçe karşılığını gün boyunca tekrar etmenize yardımcı olur.
 
-![Kelime Şeridi arayüz önizlemesi](docs/images/arayuz-onizleme.svg)
+![Kelime Şeridi uygulama görünümü](docs/images/kelime-seridi-ekran.png)
 
-> Görsel, uygulamanın gerçek arayüz düzenini açıklayan bir önizlemedir. Şerit, Windows’ta ekranın en üstünde uygulama çubuğu olarak yer alır.
+![Kelime Şeridi ek ekran görüntüsü](docs/images/kelime-seridi-ek-ekran.png)
+
+> Ekran görüntüleri uygulamanın gerçek arayüzünü gösterir. Şerit, Windows’ta ekranın en üstünde uygulama çubuğu olarak yer alır.
 
 ## Ne işe yarar?
 
